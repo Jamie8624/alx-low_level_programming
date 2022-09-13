@@ -10,7 +10,7 @@ int main(void)
 	char alp[] = "_putchar;
 	int c;
 
-	for (c = 0; c < sz; c++)
+	for (c = 0; c < 8; c++)
 	{
 		_putchar(alp[c]);
 	}
