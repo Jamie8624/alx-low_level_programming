@@ -4,7 +4,7 @@
  * @n: number input
  * Return: 1 prints '+' if n > 0, 0 prints 
  * '0' if n = 0, -1 prints '-'if mn n < 0
-i */
+ */
 int print_sign(int n)
 {
 	if (n > 0)
